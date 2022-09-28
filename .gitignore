@@ -1,0 +1,8 @@
+/extensiones
+/extra
+/vistas/bower_components
+/vistas/plugins
+/vistas/dist
+/vistas/img
+/xml
+*.sql
